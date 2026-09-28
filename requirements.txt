@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pygam
+networkx
+geopandas
+shapely
+libpysal
+esda
+igraph
+leidenalg
+torch
+torch-geometric
+joblib
